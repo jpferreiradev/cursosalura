@@ -8,7 +8,9 @@ public class TestaValores {
 		int segundo = 7;
 		
 		segundo = primeiro;
+		primeiro = 10;
 		
+		// quanto vale o segundo 
 		
 		
 		System.out.println(segundo);
