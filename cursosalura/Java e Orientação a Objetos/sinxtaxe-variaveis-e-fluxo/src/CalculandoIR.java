@@ -37,7 +37,7 @@ public class CalculandoIR {
             System.out.println("A sua aliquota é de 7%");
             System.out.println("Você pode deduzir até R$ 142");
         
-        } else if(salario >= 2800.01 && salario <= 3751.0) {
+        } else if(salario >= 2800.01 && salario <= 375	1.0) {
             System.out.println("A sua aliquota é de 15%");
             System.out.println("Você pode deduzir até R$ 350");
         
