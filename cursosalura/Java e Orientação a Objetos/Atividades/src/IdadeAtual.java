@@ -17,11 +17,13 @@ public class IdadeAtual {
 		
 		idadeAtual = anoAtual - anoAntigo;
 		
-		System.out.println("A sua idade atual é:" + idadeAtual + " anos");
+		System.out.println("A sua idade atual Ã©:" + idadeAtual + " anos");
 	}
 }
 
 
-/* System.out.println("O primeiro número é:" + primeiroNumero);
-System.out.println("O segundo número é: " + segundoNumero);
+
+
+/* System.out.println("O primeiro nï¿½mero ï¿½:" + primeiroNumero);
+System.out.println("O segundo nï¿½mero ï¿½: " + segundoNumero);
 */
