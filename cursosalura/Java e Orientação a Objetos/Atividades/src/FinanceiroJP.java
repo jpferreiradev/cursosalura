@@ -1,21 +1,17 @@
-/*
+
+
 public class FinanceiroJP {
 	
 	public static void main(String[] args) {
 	
 		
+		double saldoAnterior;
+		double saldoAtual;
 		
 		
-		double
-		
-		
-		
-		
-		
-		system.out
-		System.out.println("Bora porra");
+		System.out.println("Saldo anterior:");
+		System.out.println("Saldo atual:");
 		
 	
 	}
 }
-*/
