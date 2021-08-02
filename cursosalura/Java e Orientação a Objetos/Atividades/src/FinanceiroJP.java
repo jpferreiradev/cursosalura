@@ -1,4 +1,4 @@
-/*
+/
 import java.util.Scanner;
 
 public class FinanceiroJP {
@@ -20,4 +20,3 @@ public class FinanceiroJP {
 	}
 }
 
-*/
