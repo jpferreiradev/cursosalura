@@ -17,7 +17,7 @@ public class IdadeAtual {
 		
 		idadeAtual = anoAtual - anoAntigo;
 		
-		System.out.println("A sua idade atual Ã©:" + idadeAtual + " anos");
+		System.out.println("A sua idade atual é:" + idadeAtual + " anos");
 	}
 }
 
