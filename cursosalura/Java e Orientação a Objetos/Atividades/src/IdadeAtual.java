@@ -24,6 +24,6 @@ public class IdadeAtual {
 
 
 
-/* System.out.println("O primeiro n�mero �:" + primeiroNumero);
-System.out.println("O segundo n�mero �: " + segundoNumero);
+/* System.out.println("O primeiro numero" + primeiroNumero);
+System.out.println("O segundo numero " + segundoNumero);
 */
