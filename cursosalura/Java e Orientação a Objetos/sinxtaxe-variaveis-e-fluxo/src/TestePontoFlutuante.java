@@ -22,6 +22,8 @@ public class TestePontoFlutuante {
 			System.out.println(novaTentativa);
 			
 			
+			
+			
 							
 		}
 }
