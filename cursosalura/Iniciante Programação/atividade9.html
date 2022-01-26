@@ -1,0 +1,30 @@
+<!--
+  media de idade de filhos no BR é de 28 anos
+  1500 portugueses
+  primeira geração surgiu em 1528
+  segunda geração surgiu em 1556
+  
+  --->
+
+<meta charset="UTF-8">
+
+<script>
+
+  var anoAtual = 2022;
+  var anoAntigo = 1500;
+  var mediaAnos = 28;
+  var diferencaAnos = anoAtual - anoAntigo;
+
+  function pulaLinha() {
+    document.write("<br>");
+  }
+  function mostra(anos) {
+    document.write(anos);
+
+  }
+
+  pulaLinha();
+  mostra("Se passaram " + diferencaAnos + " anos e a média das gerações é de " + (diferencaAnos / mediaAnos));
+
+
+</script>

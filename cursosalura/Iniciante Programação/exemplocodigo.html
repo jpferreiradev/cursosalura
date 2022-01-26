@@ -1,0 +1,48 @@
+<meta charset="UTF-8">
+
+
+<script>
+  //Exemplo 1
+
+  function pulaLinha() {
+
+    document.write("<br>")
+  }
+
+  function mostra(frase) {
+    document.write(frase);
+    pulaLinha
+  }
+
+  mostra("<h1> Bem-vindos </h1>");
+  mostra("<p> Este é um simples programa</p>");
+
+
+
+</script>
+
+<script>
+  // Exemplo 2
+
+  function pulaLinha() {
+    document.write("<br");
+
+  }
+  function exibeTitulo(titulo) {
+    document.write("<h1>" + titulo + "</h1>");
+    pulaLinha();
+  }
+
+  function exibeParagrafo(paragrafo) {
+    document.write("<p>" + paragrafo + "</p>")
+    pulaLinha();
+
+
+    exibeTitulo("Bem-vindos");
+    exibeParagrafo("Este é um simples programa");
+
+  }
+
+
+
+</script>
