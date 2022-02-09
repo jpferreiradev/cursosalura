@@ -1,0 +1,6 @@
+classe -> public class Programa {
+
+	método (main) -> public static void main(String []args]{
+		System.out.println("Olá mundo Java");
+	}
+}
