@@ -6,7 +6,8 @@ public class ExemploTypeCasting {
 		int idade = (int) 30.0;
 		
 		System.out.println(idade);
-
+		
+		
 	}
 
 }
