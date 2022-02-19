@@ -25,7 +25,7 @@ Agora crie uma nova classe, escreva um for que inicie uma variável n (número atu
 public class exercicioDois {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		 
 
 	}
 

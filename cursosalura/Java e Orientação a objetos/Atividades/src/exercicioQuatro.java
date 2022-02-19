@@ -5,23 +5,32 @@ public class exercicioQuatro {
 
 		// mes = 365
 		// mes = 30
+		// dia = 24hrs
 
+		//int minhaIdade;
 		int ano = 365;
 		int mes = 30;
-		int dia = 24;
-		int idade = 30;
-		int idadeContadaEmDias = ano+mes+dia; 
-		int idadeAno = ano * idade;
-		
-		
-		
-		System.out.println(idadeContadaEmDias);
+		int dias;
+		//int somaIdadeContataEmDias = ano + mes;
 
+		Scanner scan = new Scanner(System.in);
 
-		System.out.println("A sua idade é em dias é de:");
-				
-				
-			
+		int minhaIdade;
+		System.out.println(" Digite a sua idade:");
+		minhaIdade = scan.nextInt();
+		System.out.println(minhaIdade);
+
+		
+		
+		int somaIdadeContataEmDias  =  (minhaIdade * ano) + (minhaIdade * mes);
+
+		System.out.println("Você tem essa quantidade de dias de vida: " + somaIdadeContataEmDias + " dias");
+
+		// System.out.println(idadeContadaEmDias);
+
+		// System.out.println("A sua idade é em dias é de:");
 
 	}
 }
+
+// É preciso ser mostrado nesse exemplo: 30 anos, 2 meses  x dias
