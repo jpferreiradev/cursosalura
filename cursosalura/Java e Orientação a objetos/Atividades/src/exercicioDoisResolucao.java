@@ -6,7 +6,7 @@ public class exercicioDoisResolucao {
 
         for (int i = 1; i <= 10; i++) {
             fatorial *= i;
-            System.out.println("Fatorial de " + i + " é: " + fatorial);
+            System.out.println("Fatorial de " + i + " Ã©: " + fatorial);
 
 		}
 

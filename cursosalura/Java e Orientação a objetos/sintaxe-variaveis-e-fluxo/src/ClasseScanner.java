@@ -8,10 +8,9 @@ public class ClasseScanner {
 		System.out.println("Digite o seu nome:");
 		str = texto.nextLine();
 		System.out.println("Bem-vindo " + str + "!");
-		
-		System.out.println("Digite um número: ");
+		System.out.println("Digite um nÃºmero: ");
 		int numero = texto.nextInt();
-		System.out.println("O número digitado foi: " + numero);
+		System.out.println("O nÃºmero digitado foi: " + numero);
 		
 		texto.close();
 		

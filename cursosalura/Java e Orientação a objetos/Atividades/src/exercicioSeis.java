@@ -5,13 +5,13 @@ public class exercicioSeis {
 
 		Scanner salario = new Scanner(System.in);
 		
-		System.out.println("Informe o seu sal·rio :");
+		System.out.println("Informe o seu sal√°rio :");
 		double meuSalario = salario.nextDouble();
-		System.out.println("Seu sal·rio È de: " + meuSalario);
+		System.out.println("Seu sal√°rio √© de: " + meuSalario);
 		double reajusteSalario = meuSalario * 0.01;
 		
 		
-		System.out.println("O seu s·lario ajustado È de R$ " + reajusteSalario + " reais");
+		System.out.println("O seu s√°lario ajustado √© de R$ " + reajusteSalario + " reais");
 		
 		
 		

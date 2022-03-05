@@ -8,16 +8,16 @@ public class exercicioCinco {
 		int media = 3;
 
 		int mediaConjuntosDeNumeroUm = conjuntosDeNumerosUm / media;
-		System.out.println("A média do primeiro conjunto de números é de : " + mediaConjuntosDeNumeroUm);
+		System.out.println("A mÃ©dia do primeiro conjunto de nÃºmeros Ã© de : " + mediaConjuntosDeNumeroUm);
 
 		int mediaConjuntosDeNumeroDois = conjuntosDeNumerosDois / media;
-		System.out.println("A média do segundo conjunto de números é de : " + mediaConjuntosDeNumeroDois);
+		System.out.println("A mÃ©dia do segundo conjunto de nÃºmeros Ã© de : " + mediaConjuntosDeNumeroDois);
 
 		int somaDasDuasMedias = mediaConjuntosDeNumeroUm + mediaConjuntosDeNumeroDois;
 		int mediaDasMedias = somaDasDuasMedias/ 2;
 		
-		 System.out.println(" A soma das duas médias é: " + somaDasDuasMedias);
-		 System.out.println("A média das médias é:" + mediaDasMedias);
+		 System.out.println(" A soma das duas mÃ©dias Ã©: " + somaDasDuasMedias);
+		 System.out.println("A maior das mÃ©dias Ã©:" + mediaDasMedias);
 		
 		
 	}
