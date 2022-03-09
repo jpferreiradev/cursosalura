@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class exercicioOito {
 	public static void main(String args[]) {
 
-		double valorSalarioMinimo = 788;
-		double quantidadeDeSalariosMinimos;
+		int valorSalarioMinimo = 788;
+
 		System.out.println("O valor do salário minímo é de : " + valorSalarioMinimo);
 
 		Scanner ler = new Scanner(System.in);
@@ -14,8 +14,9 @@ public class exercicioOito {
 		valorSalarioUsuario = ler.nextDouble();
 		System.out.println("O seu salário é de: R$ " + valorSalarioUsuario);
 
-		if (valorSalarioUsuario > valorSalarioMinimo) {
-			System.out.println("A quantidade de salários minímos é de ");
-		}
+		double quantidadeDeSalariosMinimos = (int)valorSalarioUsuario / valorSalarioMinimo;
+		
+		System.out.println("A quantidade de salários minimos é de : " + quantidadeDeSalariosMinimos);
+
 	}
 }
