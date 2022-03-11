@@ -14,9 +14,9 @@ public class exercicioOito {
 		valorSalarioUsuario = ler.nextDouble();
 		System.out.println("O seu salário é de: R$ " + valorSalarioUsuario);
 
-		double quantidadeDeSalariosMinimos = (int)valorSalarioUsuario / valorSalarioMinimo;
+		double quantidadeDeSalariosMinimos = valorSalarioUsuario / valorSalarioMinimo;
 		
-		System.out.println("A quantidade de salários minimos é de : " + quantidadeDeSalariosMinimos);
+		System.out.println("A quantidade de salários minimos é de : " + (int)quantidadeDeSalariosMinimos);
 
 	}
 }
