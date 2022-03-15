@@ -19,7 +19,7 @@ public class ExercicioQuatroResolucao {
 		public static void main(String[] args) {
 			
 			try(Scanner scanner = new Scanner(System.in)){
-				System.out.println("Insira sua idade informando os anos, mes e dia. Separados por espaço: ");
+				System.out.println("Insira sua idade informando os anos, mes e dia. Separados por espaÃ§o: ");
 			
 			
 			String line = scanner.nextLine();

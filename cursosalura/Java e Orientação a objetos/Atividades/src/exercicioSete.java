@@ -11,6 +11,7 @@ public class exercicioSete {
 	 
 	 	Scanner peca = new Scanner(System.in);
 	 	System.out.println("Informe o código da peça um");
+	 	System.out.println();
 	 	
 	 	
 	 	

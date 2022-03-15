@@ -26,7 +26,7 @@ public class exercicioTres {
 		System.out.println(nota9);
 		System.out.println(nota10);
 		
-		System.out.println("A média da turma é " + media);
+		System.out.println("A mÃ©dia da turma Ã© " + media);
 		
 		
 	}

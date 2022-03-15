@@ -24,13 +24,14 @@ public class exercicioQuatro {
 		
 		int somaIdadeContataEmDias  =  (minhaIdade * ano) + (minhaIdade * mes);
 
-		System.out.println("Você tem essa quantidade de dias de vida: " + somaIdadeContataEmDias + " dias");
+		System.out.println("VocÃª tem essa quantidade de dias de vida: " + somaIdadeContataEmDias + " dias");
+		
 
 		// System.out.println(idadeContadaEmDias);
 
-		// System.out.println("A sua idade é em dias é de:");
+		// System.out.println("A sua idade ï¿½ em dias ï¿½ de:");
 
 	}
 }
 
-// É preciso ser mostrado nesse exemplo: 30 anos, 2 meses  x dias
+// Ã‰ preciso ser mostrado nesse exemplo: 30 anos, 2 meses  x dias
