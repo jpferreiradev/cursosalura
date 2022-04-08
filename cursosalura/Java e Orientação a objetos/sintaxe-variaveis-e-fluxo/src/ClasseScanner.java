@@ -10,7 +10,7 @@ public class ClasseScanner {
 		System.out.println("Bem-vindo " + str + "!");
 		System.out.println("Digite um número: ");
 		int numero = texto.nextInt();
-		System.out.println("O número digitado foi: " + numero);
+		System.out.println("O n�mero digitado foi: " + numero);
 		
 		texto.close();
 		
