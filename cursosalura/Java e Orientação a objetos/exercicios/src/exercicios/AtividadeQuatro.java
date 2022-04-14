@@ -24,7 +24,8 @@ public class AtividadeQuatro {
 		double calculoImc = peso / (altura * altura);
 		
 		System.out.println( meuNome + " o cálculo do seu IMC é de: " + calculoImc);
-		System.out.printf( meuNome + " o cálculo do seu IMC é de: %.2f" , calculoImc); // 1 Controle das casas decimais 
+		System.out.printf( meuNome + " o cálculo do seu IMC é de: %.2f" , calculoImc); // 1) Controle das casas decimais
+		
 		
 		
 		

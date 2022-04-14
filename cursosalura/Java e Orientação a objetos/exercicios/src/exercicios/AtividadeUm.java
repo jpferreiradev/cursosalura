@@ -6,7 +6,7 @@ public class AtividadeUm {
 		double dividendoX = 384;
 		double divisorY = 50;
 		double calculoQuociente = dividendoX / divisorY;
-		double calculoResto = dividendoX % dividendoX;
+		double calculoResto = dividendoX % divisorY ;
 
 		System.out.println("O quociente é: " + calculoQuociente);
 		System.out.println("O cálculo do resto é: " + calculoResto);
