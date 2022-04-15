@@ -8,3 +8,25 @@ public class ExemploFor {
 		}
 	}
 }
+
+
+/*
+
+
+
+int numeroUm = 3;
+int numeroDois = 2;
+int numeroTres = 4;
+int contadorDosNumeros;
+
+
+
+
+
+if(numeroUm > numeroDois) {
+	System.out.println(" O número maior é dois");
+} else {
+	System.out.println("O número é menor que dois");
+}
+
+*/

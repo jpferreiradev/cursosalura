@@ -20,7 +20,7 @@ public class AtividadeCinco {
 		System.out.println(calculoRaizQuadradaCatetoB);
 		
 		double calculoHipotenusa = (calculoRaizQuadradaCatetoA + calculoRaizQuadradaCatetoB); 
-		System.out.println(calculoHipotenusa);
+		System.out.println("O valor da hipotenusa é: 	" + calculoHipotenusa);
 		
 		
 		
