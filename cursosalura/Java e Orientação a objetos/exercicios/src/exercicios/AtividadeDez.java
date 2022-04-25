@@ -8,3 +8,17 @@ public class AtividadeDez {
 	}
 
 }
+
+
+
+
+/*
+
+
+Faça um programa em Java, para ler 3 numeros quaiser e escrever os respectivos numeros em ordem
+crescente 
+
+
+
+
+*/
