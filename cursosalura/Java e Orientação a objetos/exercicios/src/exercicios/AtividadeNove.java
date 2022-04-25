@@ -27,7 +27,7 @@ public class AtividadeNove {
 		}
 
 		double mediaAritmeticaDosDoisMaiores = (primeiroNumeroMaior + segundoNumeroMaior) / 2;
-		System.out.println("A média dos dois números maiores é: " + mediaAritmeticaDosDoisMaiores);
+		System.out.printf("A média dos dois números maiores é: %.2f ", mediaAritmeticaDosDoisMaiores);
 		
 	}
 
