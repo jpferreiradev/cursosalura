@@ -16,7 +16,7 @@ public class TestaVetorArray {
 		temperaturas[2] = 33.7;
 		temperaturas[3] = 34;
 		temperaturas[4] = 33.1;
-		
+			
 		System.out.println("O valor da temperatura do dia 1 é: " + temperaturas[0]);
 		
 		// Saber o tamanho do seu array
