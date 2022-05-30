@@ -27,7 +27,7 @@ public class atividade19 {
 		double calculoMedia = (primeiraNota + segundaNota) / 2;
 		
 		//System.out.printf("A sua média foi : /n" + calculoMedia);
-		System.out.printf("A sua média foi  %.2f %n", (calculoMedia)); 
+		System.out.printf("A sua média foi  %.1f %n", (calculoMedia)); 
 		
 		if(calculoMedia >= 7)  {
 			System.out.println(" Parabéns, você teve um bom aproveitamento");
