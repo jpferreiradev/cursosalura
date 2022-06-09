@@ -11,30 +11,29 @@ public class atividade25 {
 
 		System.out.println("Digite o tamanho do primeiro lado:");
 		ladoA = medida.nextInt();
-		// System.out.println(ladoA);
 
 		System.out.println("Digite o tamanho do segundo lado:");
 		ladoB = medida.nextInt();
-		// System.out.println(ladoB);
 
 		System.out.println("Digite o tamanho do terceiro lado:");
 		ladoC = medida.nextInt();
-		// System.out.println(ladoC);
 
-		if (ladoA == ladoB && ladoB == ladoC) {
-			System.out.println("Esse triângulo é equilatero");
-		}
-		if (ladoA == ladoB && ladoA != ladoC) {
-			System.out.println("Esse triângulo é isosceles ");
-		} else if (ladoA != ladoB && ladoA != ladoC) {
-			System.out.println("Esse triângulo é escaleno");
+		if (ladoA == 0 && ladoB == 0 && ladoC == 0) {
+			System.out.println("Não é possível criar um triângulo");
 		} else {
-			// System.out.println("Não existe triângulo");
+			if (ladoA == ladoB && ladoA == ladoC) {
+				System.out.println("Esse triângulo é equilátero");
+			}
+			if (ladoA == ladoB && ladoA != ladoC) {
+				System.out.println("Esse triângulo é isosceles ");
+			} else if (ladoA != ladoB && ladoA != ladoC) {
+				System.out.println("Esse triângulo é escaleno");
+
+			}
+
 		}
-
-		 
-
 	}
+
 }
 
 //System.out.println("O tamanho dos lados são " + ladoA + ladoB + ladoC);
