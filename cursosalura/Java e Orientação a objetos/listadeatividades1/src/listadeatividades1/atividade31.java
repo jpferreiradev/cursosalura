@@ -19,5 +19,14 @@ public class atividade31 {
 		
 		
 		
+		
+		
 	}
 }
+
+/*
+pedra ganha tesoura
+tesoura ganha papel
+papel ganha de pedra
+
+*/

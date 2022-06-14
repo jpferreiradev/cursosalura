@@ -9,7 +9,7 @@ public class TestaEscopoVariavel {
 		int quantidadePessoas = 3;
 		
 		//boolean acompanhado = quantidadePessoas >= 2;
-		
+			
 		boolean acompanhado; 
 		
 		
