@@ -8,11 +8,25 @@ public class CriaConta {
 		primeiraConta.saldo = 200;
 		System.out.println(primeiraConta.saldo);
 		
+		primeiraConta.saldo += 100;
+		System.out.println(primeiraConta.saldo);
+		
 		Conta segundaConta = new Conta();
-		segundaConta.saldo = 400;
-		System.out.println(segundaConta.saldo);
+		segundaConta.saldo = 50;
 		
-		
-		
+		System.out.println("Primeira conta tem " + primeiraConta.saldo);
+		System.out.println("Segunda conta tem " + segundaConta.saldo);
+	
+	
 	}
 }
+
+/*
+Conta segundaConta = new Conta();
+segundaConta.saldo = 400;
+System.out.println(segundaConta.saldo);
+
+Conta terceiraConta = new Conta();
+terceiraConta.saldo = 700;
+System.out.println(terceiraConta.saldo);
+*/
