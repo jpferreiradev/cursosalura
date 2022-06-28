@@ -23,5 +23,17 @@ public class TestaMetodo {
 		}
 		System.out.println(contaDaThaynara.saldo);
 		System.out.println(contaDoJP.saldo);
+	
+		contaDoJP.titular = "JP Ferreira";
+		System.out.println(contaDoJP.titular);
+		
+		contaDaThaynara.titular = "Thaynara Ricarte";
+		System.out.println(contaDaThaynara.titular);
+		
+		
 	}
+	
+	
+	
+	
 }
