@@ -1,5 +1,5 @@
 
-public class TestaSwitch {
+		public class TestaSwitch {
 	public static void main(String args[]) {
 
 		int mes = 45;

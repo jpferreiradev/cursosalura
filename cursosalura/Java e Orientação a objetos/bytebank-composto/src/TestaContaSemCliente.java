@@ -12,5 +12,7 @@ public class TestaContaSemCliente {
 		System.out.println(contaDaThaynara.titular.nome);
 		
 		
+		
+		
 	}
 }
