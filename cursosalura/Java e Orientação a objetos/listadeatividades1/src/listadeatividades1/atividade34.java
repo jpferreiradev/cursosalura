@@ -25,8 +25,10 @@ public class atividade34 {
 
 		double calculoDoImc = pesoDaPessoa / Math.pow(alturaDaPessoa, 2);
 
+		System.out.println(calculoDoImc);
 		System.out.println("O cálculo do seu IMC é de: " + df.format(calculoDoImc));
 
+		
 		if(calculoDoImc < 18.5) {
 			System.out.println("Abaixo do peso");
 		} if(calculoDoImc > 18.5 && calculoDoImc <= 25) {
@@ -38,8 +40,8 @@ public class atividade34 {
 		} else if(calculoDoImc > 40) {
 			System.out.println("Obesidade mórbida");
 		}
-			
-
+	
+	
 		
 
 	}

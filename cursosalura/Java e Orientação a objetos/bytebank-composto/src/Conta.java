@@ -1,22 +1,18 @@
 public class Conta {
-	double saldo;
+	private double saldo;
 	int agencia;
 	int numero;
 	Cliente titular;
 
-
-
 	public void deposita(double valor) {
 
-		
 		this.saldo += valor;
 	}
 
-	
 	public boolean saca(double valor) {
 		if (this.saldo >= valor) {
 			this.saldo -= valor;
-			
+
 			return true;
 		} else {
 			return false;
@@ -33,4 +29,12 @@ public class Conta {
 		return false;
 	}
 
+	public double pegaSaldo() {
+		return this.saldo;
+		
+		
+	}
+	
+	
+	
 }
