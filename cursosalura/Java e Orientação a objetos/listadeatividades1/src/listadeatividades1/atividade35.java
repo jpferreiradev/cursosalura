@@ -24,28 +24,29 @@ public class atividade35 {
 		System.out.println("Foram " + quantidadesDeDiasAlugados + " dias");
 		System.out.println("Foram " + quantidadesDeKmRodados + " km rodados");
 
+		// carropopular
 		double conversaoDeKmEmRealCarroPopular = quantidadesDeKmRodados * 0.20;
 		double conversaoDeKmEmRealCarroPopularAcima = quantidadesDeKmRodados * 0.10;
+		// carroluxo
 		double conversaoKmEmRealCarroLuxo = quantidadesDeKmRodados * 0.30;
 		double conversaoKmEmRealCarroLuxoAcima = quantidadesDeKmRodados * 0.25;
 
 		int conversaoValorDiasEmRealCarroPopular = quantidadesDeDiasAlugados * valorAluguelCarroPopular;
 		int conversaoValorDiasEmRealCarroLuxo = quantidadesDeDiasAlugados * valorAluguelCarroLuxo;
 
-		double totalDeValorParaPagarCarroPopular = conversaoValorDiasEmRealCarroPopular;
-		double totalDeValorParaPagarCarroLuxo;
+		double totalDeValorParaPagarCarroPopular = conversaoValorDiasEmRealCarroPopular	+ conversaoDeKmEmRealCarroPopular;
+		double totalDeValorParaPagarCarroPopularAcima = conversaoValorDiasEmRealCarroPopular + conversaoDeKmEmRealCarroPopularAcima;
 
-		System.out.println(conversaoValorDiasEmRealCarroPopular);
-		System.out.println(conversaoValorDiasEmRealCarroLuxo);
-			
+		double totalDeValorParaPagarCarroLuxo = conversaoValorDiasEmRealCarroLuxo + conversaoKmEmRealCarroLuxo;
+		double totalDeValorParaPagarCarroLuxoAcime = conversaoValorDiasEmRealCarroLuxo + conversaoKmEmRealCarroLuxoAcima;
+
+		
+		System.out.println("O tipo do carro escolhido foi: " + classeDeCarro + " e a quantidade de dias alugados foi de: " + quantidadesDeDiasAlugados + " dias  e foram rodados " + quantidadesDeKmRodados + "km ");
+
 		
 		
-		// System.out.println(df.format(conversaoDeKmEmRealCarroPopular));
-		// System.out.println(df.format(conversaoDeKmEmRealCarroPopularAcima));
-		// System.out.println(df.format(conversaoKmEmRealCarroLuxo));
-		// System.out.println(df.format(conversaoKmEmRealCarroLuxoAcima));
-
-		/*
+		
+		
 		if (quantidadesDeKmRodados < 100) {
 			System.out.println("Até 100Km percorridos seram cobrados R$ 0,20 centavos por km e foram cobrados :"
 					+ df.format(conversaoDeKmEmRealCarroPopular));
@@ -62,16 +63,19 @@ public class atividade35 {
 					+ df.format(conversaoKmEmRealCarroLuxoAcima));
 		}
 
-		 */
-		
-		System.out.println("O tipo do carro escolhido foi: " + classeDeCarro + " e a quantidade de dias alugados foi de: " + quantidadesDeDiasAlugados + " dias  e foram rodados " + quantidadesDeKmRodados
-				 + "km ");
-		
-
 	}
 
 }
 
+/*
+System.out.println(totalDeValorParaPagarCarroPopular);
+System.out.println(totalDeValorParaPagarCarroPopularAcima);
+System.out.println(totalDeValorParaPagarCarroLuxo);
+System.out.println(totalDeValorParaPagarCarroLuxoAcime);
+*/
+
+
+// Aprendendo a usar o método equals 
 /*
  * 
  * String tipoDeCarro = "popular"; String tipoDeCarroDois = "luxo";
@@ -83,3 +87,9 @@ public class atividade35 {
  * 
  * 
  */
+
+
+//System.out.println(df.format(conversaoDeKmEmRealCarroPopular));
+		// System.out.println(df.format(conversaoDeKmEmRealCarroPopularAcima));
+		// System.out.println(df.format(conversaoKmEmRealCarroLuxo));
+		// System.out.println(df.format(conversaoKmEmRealCarroLuxoAcima));
