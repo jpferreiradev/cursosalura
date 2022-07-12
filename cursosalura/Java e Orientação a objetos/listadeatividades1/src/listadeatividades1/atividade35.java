@@ -34,62 +34,29 @@ public class atividade35 {
 		int conversaoValorDiasEmRealCarroPopular = quantidadesDeDiasAlugados * valorAluguelCarroPopular;
 		int conversaoValorDiasEmRealCarroLuxo = quantidadesDeDiasAlugados * valorAluguelCarroLuxo;
 
-		double totalDeValorParaPagarCarroPopular = conversaoValorDiasEmRealCarroPopular	+ conversaoDeKmEmRealCarroPopular;
-		double totalDeValorParaPagarCarroPopularAcima = conversaoValorDiasEmRealCarroPopular + conversaoDeKmEmRealCarroPopularAcima;
+		double totalDeValorParaPagarCarroPopular = conversaoValorDiasEmRealCarroPopular
+				+ conversaoDeKmEmRealCarroPopular;
+		double totalDeValorParaPagarCarroPopularAcima = conversaoValorDiasEmRealCarroPopular
+				+ conversaoDeKmEmRealCarroPopularAcima;
 
 		double totalDeValorParaPagarCarroLuxo = conversaoValorDiasEmRealCarroLuxo + conversaoKmEmRealCarroLuxo;
-		double totalDeValorParaPagarCarroLuxoAcime = conversaoValorDiasEmRealCarroLuxo + conversaoKmEmRealCarroLuxoAcima;
+		double totalDeValorParaPagarCarroLuxoAcime = conversaoValorDiasEmRealCarroLuxo
+				+ conversaoKmEmRealCarroLuxoAcima;
 
-		
 		System.out.println("O tipo do carro escolhido foi: " + classeDeCarro + " e a quantidade de dias alugados foi de: " + quantidadesDeDiasAlugados + " dias  e foram rodados " + quantidadesDeKmRodados + "km ");
 
-		
-		
-		
-		
 		if (quantidadesDeKmRodados < 100) {
-			System.out.println("Até 100Km percorridos seram cobrados R$ 0,20 centavos por km e foram cobrados :"
-					+ df.format(conversaoDeKmEmRealCarroPopular));
+			System.out.println("Até 100Km percorridos seram cobrados R$ 0,20 centavos por km e foram cobrados :" + df.format(conversaoDeKmEmRealCarroPopular));
 		}
 		if (quantidadesDeKmRodados > 100) {
-			System.out.println("Acima de 100km percorridos seram cobrados R$ 0,10 centavos por km foram cobrados :"
-					+ df.format(conversaoDeKmEmRealCarroPopularAcima));
+			System.out.println("Acima de 100km percorridos seram cobrados R$ 0,10 centavos por km foram cobrados :" + df.format(conversaoDeKmEmRealCarroPopularAcima));
 		}
 		if (quantidadesDeKmRodados < 200) {
-			System.out.println("Até 200km percorridos seram cobrados R$ 0,30 centavos por km e foram cobrados : "
-					+ df.format(conversaoKmEmRealCarroLuxo));
+			System.out.println("Até 200km percorridos seram cobrados R$ 0,30 centavos por km e foram cobrados : " + df.format(conversaoKmEmRealCarroLuxo));
 		} else if (quantidadesDeKmRodados > 200) {
-			System.out.println("Acima de 200km percorridos seram cobrados R$ 0,25 centavos por km e foram cobrados :"
-					+ df.format(conversaoKmEmRealCarroLuxoAcima));
+			System.out.println("Acima de 200km percorridos seram cobrados R$ 0,25 centavos por km e foram cobrados :" + df.format(conversaoKmEmRealCarroLuxoAcima));
 		}
 
 	}
 
 }
-
-/*
-System.out.println(totalDeValorParaPagarCarroPopular);
-System.out.println(totalDeValorParaPagarCarroPopularAcima);
-System.out.println(totalDeValorParaPagarCarroLuxo);
-System.out.println(totalDeValorParaPagarCarroLuxoAcime);
-*/
-
-
-// Aprendendo a usar o método equals 
-/*
- * 
- * String tipoDeCarro = "popular"; String tipoDeCarroDois = "luxo";
- * 
- * if (classeDeCarro.equals(tipoDeCarro)) {
- * System.out.println("O tipo de carro é de popular"); if
- * (classeDeCarro.equals(tipoDeCarroDois)) {
- * System.out.println("O tipo de carro é luxo");
- * 
- * 
- */
-
-
-//System.out.println(df.format(conversaoDeKmEmRealCarroPopular));
-		// System.out.println(df.format(conversaoDeKmEmRealCarroPopularAcima));
-		// System.out.println(df.format(conversaoKmEmRealCarroLuxo));
-		// System.out.println(df.format(conversaoKmEmRealCarroLuxoAcima));

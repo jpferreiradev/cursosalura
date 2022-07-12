@@ -3,6 +3,7 @@ package listadeatividades1;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
+
 public class atividade33 {
 	public static void main(String args[]) {
 
