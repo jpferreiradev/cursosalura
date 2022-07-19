@@ -25,7 +25,7 @@ public class atividade34 {
 
 		double calculoDoImc = pesoDaPessoa / Math.pow(alturaDaPessoa, 2);
 
-		System.out.println(calculoDoImc);
+		//System.out.println(calculoDoImc);
 		System.out.println("O cálculo do seu IMC é de: " + df.format(calculoDoImc));
 
 		
