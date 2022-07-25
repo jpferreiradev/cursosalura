@@ -18,7 +18,7 @@ public class atividade36 {
 		
 		double quantidadeDePontos = 2;
 		
-			double quantidadeDeDinheiro = 0.05;
+		double quantidadeDeDinheiro = 0.05;
 		
 		double conversaoPontosDeHoras = quantidadeDePontos * quantidadeDeDinheiro;
 		

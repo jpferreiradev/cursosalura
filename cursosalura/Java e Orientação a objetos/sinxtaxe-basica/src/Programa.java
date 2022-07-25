@@ -1,8 +1,7 @@
 
 public class Programa {
 	public static void main(String args[]) {
-
-		System.out.println("Olá, vamos voltar!");
+		System.out.println("Hello world, Java");
 
 	}
 }
