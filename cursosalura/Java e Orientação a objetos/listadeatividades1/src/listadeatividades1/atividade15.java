@@ -19,14 +19,14 @@ public class atividade15 {
 		int quantidadeDeDiasTrabalhadosNoMes;
 		System.out.println("Informe quantos dias foram trabalhados: ");
 		quantidadeDeDiasTrabalhadosNoMes = dia.nextInt();
-		System.out.println("Foram trabalhados " + quantidadeDeDiasTrabalhadosNoMes + " dias dos mês");
+		System.out.println("Foram trabalhados " + quantidadeDeDiasTrabalhadosNoMes + " dias dos mï¿½s");
 		
 		double valorSalarioPorDiaTrabalhado = quantidadeHorasTrabalhadaDia *  valorHoraTrabalhada;
 		double valorSalarioMes = quantidadeDeDiasTrabalhadosNoMes * valorSalarioPorDiaTrabalhado;
 		
 		
-		System.out.println("O valor do seu salário no mês é de R$: " + valorSalarioMes + " reais");
-		System.out.printf("O valor do seu salário no mês é de " + df.format(valorSalarioMes) + " reais");
+		System.out.println("O valor do seu salÃ¡rio no mÃªs Ã© de R$: " + valorSalarioMes + " reais");
+		System.out.printf("O valor do seu salÃ¡rio no mÃªs Ã© de " + df.format(valorSalarioMes) + " reais");
 		
 		
 		

@@ -10,23 +10,23 @@ public class atividade37 {
 	Scanner sge = new Scanner(System.in);
 	
 	/*
-	System.out.println("Informe qual é o seu salário atual:");
+	System.out.println("Informe qual Ã© o seu salÃ¡rio atual:");
 	double salarioAtual = sge.nextDouble();
-	System.out.println("Seu salário atual é de " + +salarioAtual + " reais");
-	System.out.println("Informe quantos anos você trabalha na empresa:");
+	System.out.println("Seu salÃ¡rio atual ï¿½ de " + +salarioAtual + " reais");
+	System.out.println("Informe quantos anos vocï¿½ trabalha na empresa:");
 	int anosDeEmpresa = sge.nextInt();
-	System.out.println("Você tem "+ anosDeEmpresa + " anos de empresa");
+	System.out.println("VocÃª tem "+ anosDeEmpresa + " anos de empresa");
 	
 	*/
-	System.out.println("Qual genêro você é:");
+	System.out.println("Qual genÃªro vocÃª Ã©:");
 	String generoSexual = sge.nextLine();
 	
 	if(generoSexual == "f" || generoSexual== "F" || generoSexual == "feminino" || generoSexual == "Feminino" || generoSexual == "FEMININO") { 
-		System.out.println("Seu genêro é feminino");
+		System.out.println("Seu genï¿½ro ï¿½ feminino");
 	} else if (generoSexual == "m" || generoSexual == "M" || generoSexual == "masculino" || generoSexual == "Masculino" || generoSexual == "MASCULINO" ){
-		System.out.println("Seu gênero é masculino");
+		System.out.println("Seu gï¿½nero ï¿½ masculino");
 	} else {
-		System.out.println("Você não escolheu o seu genêro");
+		System.out.println("Vocï¿½ nï¿½o escolheu o seu genï¿½ro");
 }
 
 }

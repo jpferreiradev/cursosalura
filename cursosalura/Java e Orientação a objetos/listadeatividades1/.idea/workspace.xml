@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39bd3aa9-c851-43aa-96b4-d408d77c0d50" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/listadeatividades1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/Atividade3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/Atividade3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade10.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade11.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade12.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade13.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade14.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade15.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade16.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade17.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade18.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade19.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade20.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade21.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade22.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade23.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade24.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade25.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade25.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade26.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade26.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade27.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade27.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade28.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade28.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade29.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade29.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade31.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade31.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade32.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade32.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade33.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade33.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade7.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividadeExtraAlura.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividadeExtraAlura.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividadeExtraAluraDois.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividadeExtraAluraDois.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listadeatividades1/Atividade3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/listadeatividades1/Atividade3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listadeatividades1/atividade1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/listadeatividades1/atividade1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listadeatividades1/atividade15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/listadeatividades1/atividade15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listadeatividades1/atividade2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/listadeatividades1/atividade2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listadeatividades1/atividade35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/listadeatividades1/atividade35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listadeatividades1/atividade36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/listadeatividades1/atividade36.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listadeatividades1/atividade37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/listadeatividades1/atividade37.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listadeatividades1/atividade6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/listadeatividades1/atividade6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sintaxe-variaveis-e-fluxo/src/ClasseScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sintaxe-variaveis-e-fluxo/src/ClasseScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sintaxe-variaveis-e-fluxo/src/ExemploEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sintaxe-variaveis-e-fluxo/src/ExemploEquals.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CcdcfYTcCaA3GlU7sG6RVcw7Xx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Programação/Projetos de cursos/Alura/cursosalura/cursosalura/Java e Orientação a objetos/sintaxe-variaveis-e-fluxo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.ExemploEquals">
+    <configuration name="ClasseScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClasseScanner" />
+      <module name="sintaxe-variaveis-e-fluxo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExemploEquals" />
+      <module name="sintaxe-variaveis-e-fluxo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="atividade35" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="listadeatividades1.atividade35" />
+      <module name="listadeatividades1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="listadeatividades1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="atividade36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="listadeatividades1.atividade36" />
+      <module name="listadeatividades1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="listadeatividades1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="atividade4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="listadeatividades1.atividade4" />
+      <module name="listadeatividades1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="listadeatividades1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="atividade6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="listadeatividades1.atividade6" />
+      <module name="listadeatividades1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="listadeatividades1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExemploEquals" />
+        <item itemvalue="Application.ClasseScanner" />
+        <item itemvalue="Application.atividade36" />
+        <item itemvalue="Application.atividade6" />
+        <item itemvalue="Application.atividade4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39bd3aa9-c851-43aa-96b4-d408d77c0d50" name="Changes" comment="" />
+      <created>1659105894318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659105894318</updated>
+      <workItem from="1659105895855" duration="2720000" />
+      <workItem from="1659109913518" duration="8174000" />
+      <workItem from="1659119681365" duration="2332000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

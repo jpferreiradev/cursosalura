@@ -10,7 +10,7 @@ public class atividade6 {
 
 		System.out.println("Digite um número:" + numero);
 		System.out.println("O antecessor de " + numero + " é " + numeroAntecesor);
-		System.out.println("O sucessor de " + numero + "é" + numeroSucessor);
+		System.out.println("O sucessor de " + numero + " é " + numeroSucessor);
 
 	}
 
