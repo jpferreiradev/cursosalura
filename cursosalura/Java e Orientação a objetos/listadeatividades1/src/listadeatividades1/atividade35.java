@@ -6,75 +6,57 @@ import java.text.DecimalFormat;
 public class atividade35 {
 	public static void main(String args[]) {
 
-		Scanner cak = new Scanner(System.in);
-
+		Scanner dkt = new Scanner(System.in);
 		DecimalFormat df = new DecimalFormat();
 		df.applyPattern("R$ #,##0.00");
 
-		System.out.println("Informe qual a versão do carro: ");
-		String modeloCarro = cak.nextLine();
-		System.out.println("O carro escolhido foi " + modeloCarro);
-		System.out.println("Informe a quantidade de dias alugados: ");
-		int diasAlugados = cak.nextInt();
-		System.out.println("A quantidade de dias alugados foi " + diasAlugados + " dias");
-		System.out.println("Informe a quantidade de kilômetros rodados: ");
-		double quantidadeKmRodados = cak.nextDouble();
-		System.out.println("A quantidade de kilômetros rodados foi " + quantidadeKmRodados + " Km");
-	
-		double fatorPorKm = 0;
-		
-		String carroPopular;
-		String  carroLuxo;
-		
-		
-		int valorDiaCarroPopular = 90;
-		int valorDiaCarroLuxo = 150;
-		
-		double conversaoKmEmReais = quantidadeKmRodados * fatorPorKm;
-		double conversaoDiaCarroEmReais = diasAlugados;
-		
-		
-		//carroPopular
-		if(quantidadeKmRodados < 100) {
 
-			//df.format(valorSalarioMes)
-			fatorPorKm= 0.20;
-			System.out.println(df.format(fatorPorKm));
+		System.out.println("Informe o tipo de carro:");
+		String tipoCarro = dkt.nextLine();
+		System.out.println("O tipo de carro foi" + tipoCarro);
+		System.out.println("Informe a quantidade de dias alugados:");
+		int quantidadeDias = dkt.nextInt();
+		System.out.println("Informe a quantidade de kilômetros peccoridos:");
+		double quantidadeKmPecorridos = dkt.nextDouble();
+		System.out.println("A quantidade de kilômetros pecorridos foi " +  quantidadeKmPecorridos + " km");
 
-		} if(quantidadeKmRodados >= 100) {
+		int conversaoDiasAlugadosEmReais;
+		double conversaoKmRodadsoEmReais;
+		double valorTotal;
+		double fatorPorKm;
+		double totalAPagar;
+
+		//carropopular
+		if(quantidadeKmPecorridos <= 100){
+			fatorPorKm	  = 0.20;
+			conversaoKmRodadsoEmReais = quantidadeKmPecorridos * fatorPorKm;
+			conversaoDiasAlugadosEmReais = quantidadeDias * 90;
+			System.out.println(df.format(conversaoKmRodadsoEmReais));
+
+		} else {
 			fatorPorKm = 0.10;
-			System.out.println(df.format(fatorPorKm));
+			conversaoKmRodadsoEmReais = quantidadeKmPecorridos * fatorPorKm;
+			conversaoDiasAlugadosEmReais = quantidadeDias * 90;
+			System.out.println(df.format(conversaoKmRodadsoEmReais));
 		}
-			
 		//carroLuxo
-		if(quantidadeKmRodados < 200 ) {
+		if(quantidadeKmPecorridos >= 200){
 			fatorPorKm = 0.30;
-			System.out.println(df.format(fatorPorKm));
-		} if( quantidadeKmRodados >= 200) {
+			conversaoKmRodadsoEmReais = quantidadeKmPecorridos * fatorPorKm;
+			conversaoDiasAlugadosEmReais = quantidadeDias * 150;
+			System.out.println(df.format(conversaoKmRodadsoEmReais));
+
+		} else {
 			fatorPorKm = 0.25;
-			System.out.println(df.format(fatorPorKm));
+			conversaoKmRodadsoEmReais = quantidadeKmPecorridos * fatorPorKm;
+			conversaoDiasAlugadosEmReais = quantidadeDias * 150;
+			System.out.println(df.format(conversaoKmRodadsoEmReais));
 		}
-		
-		
-	
+
+
+
 	}
 
 }
-// Saber o valor de quanto ? quando voc? me informa os km rodados e os dias...
 
-/*
- * Uma empresa de aluguel de carros precisa cobrar pelos seus servi?os. O
- * aluguel de um carro custa R$90 por dia para carro popular e R$150 por dia
- * para carro de luxo. Al?m disso, o cliente paga por Km percorrido. Fa?a um
- * programa que leia o tipo de carro alugado (popular ou luxo), quantos dias de
- * aluguel e quantos Km foram percorridos. No final mostre o pre?o a ser pago de
- * acordo com a tabela a seguir:
- * 
- *  - Carros populares (aluguel de R$90 por dia) -
- * Até 100Km percorridos: R$0,20 por Km -
- * Acima de 100Km percorridos: R$0,10 por Km -
- *  
- *  Carros de luxo (aluguel de R$150 por dia) - Até 200Km percorridos:
- * R$0,30 por Km - Acima de 200Km percorridos: R$0,25 por Km
- * 
- */
+
