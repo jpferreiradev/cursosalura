@@ -12,8 +12,8 @@ public class atividade35 {
 
 
 		System.out.println("Informe o tipo de carro:");
-		String tipoCarro = dkt.nextLine();
-		System.out.println("O tipo de carro foi" + tipoCarro);
+		String qualModeloCarro = dkt.nextLine();
+		System.out.println("O tipo de carro foi" + qualModeloCarro);
 		System.out.println("Informe a quantidade de dias alugados:");
 		int quantidadeDias = dkt.nextInt();
 		System.out.println("Informe a quantidade de kilômetros peccoridos:");
@@ -25,34 +25,38 @@ public class atividade35 {
 		double valorTotal;
 		double fatorPorKm;
 		double totalAPagar;
+		String tipoCarro = "carroPopular";
+		String tipoCarroDois = "carroLuxo";
 
-		//carropopular
-		if(quantidadeKmPecorridos <= 100){
-			fatorPorKm	  = 0.20;
-			conversaoKmRodadsoEmReais = quantidadeKmPecorridos * fatorPorKm;
-			conversaoDiasAlugadosEmReais = quantidadeDias * 90;
-			System.out.println(df.format(conversaoKmRodadsoEmReais));
 
-		} else {
-			fatorPorKm = 0.10;
-			conversaoKmRodadsoEmReais = quantidadeKmPecorridos * fatorPorKm;
-			conversaoDiasAlugadosEmReais = quantidadeDias * 90;
-			System.out.println(df.format(conversaoKmRodadsoEmReais));
+		if(qualModeloCarro.equals(tipoCarro)) {
+			if (quantidadeKmPecorridos <= 100) {
+				fatorPorKm = 0.20;
+				conversaoKmRodadsoEmReais = quantidadeKmPecorridos * fatorPorKm;
+				conversaoDiasAlugadosEmReais = quantidadeDias * 90;
+				System.out.println(df.format(conversaoKmRodadsoEmReais));
+
+			} else {
+				fatorPorKm = 0.10;
+				conversaoKmRodadsoEmReais = quantidadeKmPecorridos * fatorPorKm;
+				conversaoDiasAlugadosEmReais = quantidadeDias * 90;
+				System.out.println(df.format(conversaoKmRodadsoEmReais));
+			}
 		}
-		//carroLuxo
-		if(quantidadeKmPecorridos >= 200){
-			fatorPorKm = 0.30;
-			conversaoKmRodadsoEmReais = quantidadeKmPecorridos * fatorPorKm;
-			conversaoDiasAlugadosEmReais = quantidadeDias * 150;
-			System.out.println(df.format(conversaoKmRodadsoEmReais));
+		if(qualModeloCarro.equals(tipoCarroDois)) {
+			if (quantidadeKmPecorridos >= 200) {
+				fatorPorKm = 0.30;
+				conversaoKmRodadsoEmReais = quantidadeKmPecorridos * fatorPorKm;
+				conversaoDiasAlugadosEmReais = quantidadeDias * 150;
+				System.out.println(df.format(conversaoKmRodadsoEmReais));
 
-		} else {
-			fatorPorKm = 0.25;
-			conversaoKmRodadsoEmReais = quantidadeKmPecorridos * fatorPorKm;
-			conversaoDiasAlugadosEmReais = quantidadeDias * 150;
-			System.out.println(df.format(conversaoKmRodadsoEmReais));
+			} else {
+				fatorPorKm = 0.25;
+				conversaoKmRodadsoEmReais = quantidadeKmPecorridos * fatorPorKm;
+				conversaoDiasAlugadosEmReais = quantidadeDias * 150;
+				System.out.println(df.format(conversaoKmRodadsoEmReais));
+			}
 		}
-
 
 
 	}
