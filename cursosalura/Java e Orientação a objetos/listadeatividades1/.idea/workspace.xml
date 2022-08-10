@@ -6,9 +6,43 @@
   <component name="ChangeListManager">
     <list default="true" id="39bd3aa9-c851-43aa-96b4-d408d77c0d50" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/listadeatividades1/atividade36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/listadeatividades1/atividade36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/listadeatividades1/atividade37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/listadeatividades1/atividade37.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/Atividade3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/Atividade3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade10.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade11.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade12.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade13.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade14.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade15.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade16.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade17.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade18.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade19.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade20.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade21.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade22.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade23.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade24.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade25.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade25.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade26.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade26.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade27.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade27.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade28.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade28.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade29.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade29.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade31.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade31.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade32.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade32.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade33.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade33.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade7.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividade9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividade9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividadeExtraAlura.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividadeExtraAlura.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/listadeatividades1/atividadeExtraAluraDois.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/listadeatividades1/atividadeExtraAluraDois.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinxtaxe-basica/src/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sinxtaxe-basica/src/Programa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,20 +70,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Programação/Projetos de cursos/Alura/cursosalura/cursosalura/Java e Orientação a objetos/sintaxe-variaveis-e-fluxo&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/Programação/Projetos de cursos/Alura/cursosalura/cursosalura/Java e Orientação a objetos/sinxtaxe-basica",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.general"
   }
-}</component>
-  <component name="RunManager" selected="Application.atividade36">
+}]]></component>
+  <component name="RunManager" selected="Application.Programa">
     <configuration name="ClasseDecimalFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClasseDecimalFormat" />
       <module name="sintaxe-variaveis-e-fluxo" />
@@ -57,16 +95,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploClassMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExemploClassMath" />
-      <module name="sintaxe-variaveis-e-fluxo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExemploEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExemploEquals" />
-      <module name="sintaxe-variaveis-e-fluxo" />
+    <configuration name="Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programa" />
+      <module name="sinxtaxe-basica" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,13 +141,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teste" />
+      <module name="sinxtaxe-basica" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Programa" />
+        <item itemvalue="Application.teste" />
         <item itemvalue="Application.atividade36" />
         <item itemvalue="Application.atividade15" />
         <item itemvalue="Application.ClasseDecimalFormat" />
-        <item itemvalue="Application.ExemploClassMath" />
-        <item itemvalue="Application.ExemploEquals" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +171,8 @@
       <workItem from="1659119681365" duration="2332000" />
       <workItem from="1659355687855" duration="7649000" />
       <workItem from="1659369320976" duration="22879000" />
-      <workItem from="1659530597834" duration="20004000" />
+      <workItem from="1659530597834" duration="21222000" />
+      <workItem from="1660139555006" duration="3860000" />
     </task>
     <servers />
   </component>
