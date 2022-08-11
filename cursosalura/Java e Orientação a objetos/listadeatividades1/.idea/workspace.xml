@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39bd3aa9-c851-43aa-96b4-d408d77c0d50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/atividade38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/listadeatividades1/atividade36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/listadeatividades1/atividade36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sinxtaxe-basica/src/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sinxtaxe-basica/src/Programa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listadeatividades1/atividade37.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +138,8 @@
       <workItem from="1659369320976" duration="22879000" />
       <workItem from="1659530597834" duration="21222000" />
       <workItem from="1660139555006" duration="7311000" />
-      <workItem from="1660179995251" duration="5928000" />
+      <workItem from="1660179995251" duration="6251000" />
+      <workItem from="1660225502132" duration="15467000" />
     </task>
     <servers />
   </component>
