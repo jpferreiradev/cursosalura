@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39bd3aa9-c851-43aa-96b4-d408d77c0d50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/atividade37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sintaxe-variaveis-e-fluxo/src/ExemploExtrairCaractString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/listadeatividades1/atividade37.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/atividade38.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/atividade38.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sinxtaxe-basica/src/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sinxtaxe-basica/src/Programa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/atividade37.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/atividade37.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,16 +54,23 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.atividade37">
-    <configuration name="ExemploExtrairCaractString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExemploExtrairCaractString" />
+  <component name="RunManager" selected="Application.listadeatividades1.atividade37">
+    <configuration name="TestaSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestaSwitch" />
       <module name="sintaxe-variaveis-e-fluxo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="atividade35" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="listadeatividades1.atividade35" />
+    <configuration name="TestaSwitch2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestaSwitch2" />
+      <module name="sintaxe-variaveis-e-fluxo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="atividade29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="listadeatividades1.atividade29" />
       <module name="listadeatividades1" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="atividade36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="listadeatividades1.atividade36" />
+    <configuration name="atividade35" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="listadeatividades1.atividade35" />
       <module name="listadeatividades1" />
       <extension name="coverage">
         <pattern>
@@ -97,15 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="atividade38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atividade38" />
-      <module name="listadeatividades1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="atividadeExtraAluraDois" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="listadeatividades1.atividadeExtraAluraDois" />
+    <configuration name="listadeatividades1.atividade37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="listadeatividades1.atividade37" />
       <module name="listadeatividades1" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.listadeatividades1.atividade37" />
+        <item itemvalue="Application.atividade29" />
+        <item itemvalue="Application.TestaSwitch2" />
+        <item itemvalue="Application.TestaSwitch" />
         <item itemvalue="Application.atividade37" />
-        <item itemvalue="Application.ExemploExtrairCaractString" />
-        <item itemvalue="Application.atividadeExtraAluraDois" />
-        <item itemvalue="Application.atividade36" />
-        <item itemvalue="Application.atividade38" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +141,9 @@
       <workItem from="1659530597834" duration="21222000" />
       <workItem from="1660139555006" duration="7311000" />
       <workItem from="1660179995251" duration="6251000" />
-      <workItem from="1660225502132" duration="26208000" />
+      <workItem from="1660225502132" duration="27048000" />
+      <workItem from="1660410408995" duration="738000" />
+      <workItem from="1660565170564" duration="17023000" />
     </task>
     <servers />
   </component>
