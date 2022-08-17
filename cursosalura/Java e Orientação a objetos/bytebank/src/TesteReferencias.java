@@ -1,27 +1,25 @@
-
 public class TesteReferencias {
+    public static void main(String[] args) {
+        Conta primeiraConta = new Conta();
+        primeiraConta.saldo = 300;
+        System.out.println("saldo da primeira: " + primeiraConta.saldo);
 
-	public static void main(String args[]) {
+        Conta segundaConta = primeiraConta;
+        System.out.println("saldo da segunda conta: " + segundaConta.saldo);
 
-		Conta primeiraConta = new Conta();
-		primeiraConta.saldo = 300;
+        segundaConta.saldo += 100;
+        System.out.println("saldo da segunda conta: " + segundaConta.saldo);
 
-		System.out.println(" Saldo da primeira:" + primeiraConta.saldo);
+        //System.out.print(primeiraConta.saldo);
 
-		Conta segundaConta = primeiraConta;
-		System.out.println("Saldo da segunda conta: " + segundaConta.saldo);
+        if(primeiraConta == segundaConta){
+            System.out.print("São a mesma conta.");
+        }
 
-		segundaConta.saldo += 100;
-		System.out.println("Saldo da segunda conta: " + segundaConta.saldo);
-		
-		System.out.println(primeiraConta.saldo);
-	
-	
-		if(primeiraConta == segundaConta) {
-			System.out.println("são a mesma conta, esses são duas referências para o mesmo objeto");
-		}
-	
-		System.out.println(primeiraConta); // Aqui é um exemplo referência.
-		System.out.println(segundaConta); // Aqui é um exemplo referência.
-	}
+        System.out.println(primeiraConta); // São duas referências para o mesmo objeto
+        System.out.println(segundaConta);
+    }
 }
+
+// A primeiraConta não é uma conta, ela é uma flexa, ela é uma refêrencia para uma conta, segundaConta também não é uma conta, ela é uma referência para uma conta
+//as duas referênciam para o mesmo objeto.

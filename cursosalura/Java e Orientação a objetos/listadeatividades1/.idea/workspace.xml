@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39bd3aa9-c851-43aa-96b4-d408d77c0d50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/listadeatividades1/atividade37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank/bytebank.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank/src/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank/src/CriaConta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank/src/CriaConta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank/src/TestaMetodo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank/src/TesteReferencias.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank/src/TesteReferencias.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/atividade37.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/atividade37.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sintaxe-variaveis-e-fluxo/src/ExemploExtrairCaractString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sintaxe-variaveis-e-fluxo/src/ExemploExtrairCaractString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinxtaxe-basica/src/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sinxtaxe-basica/src/Programa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,34 +42,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Programação/Projetos de cursos/Alura/cursosalura/cursosalura/Java e Orientação a objetos/sinxtaxe-basica&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/Programação/Projetos de cursos/Alura/cursosalura/cursosalura/Java e Orientação a objetos/bytebank",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.general"
   }
-}</component>
-  <component name="RunManager" selected="Application.listadeatividades1.atividade37">
-    <configuration name="TestaSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestaSwitch" />
-      <module name="sintaxe-variaveis-e-fluxo" />
+}]]></component>
+  <component name="RunManager" selected="Application.CriaConta">
+    <configuration name="CriaConta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CriaConta" />
+      <module name="bytebank" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaSwitch2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestaSwitch2" />
-      <module name="sintaxe-variaveis-e-fluxo" />
+    <configuration name="Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programa" />
+      <module name="sinxtaxe-basica" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteReferencias" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesteReferencias" />
+      <module name="bytebank" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,13 +108,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="atividade37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atividade37" />
-      <module name="listadeatividades1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="listadeatividades1.atividade37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="listadeatividades1.atividade37" />
       <module name="listadeatividades1" />
@@ -117,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CriaConta" />
+        <item itemvalue="Application.TesteReferencias" />
+        <item itemvalue="Application.Programa" />
         <item itemvalue="Application.listadeatividades1.atividade37" />
         <item itemvalue="Application.atividade29" />
-        <item itemvalue="Application.TestaSwitch2" />
-        <item itemvalue="Application.TestaSwitch" />
-        <item itemvalue="Application.atividade37" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +149,9 @@
       <workItem from="1660179995251" duration="6251000" />
       <workItem from="1660225502132" duration="27048000" />
       <workItem from="1660410408995" duration="738000" />
-      <workItem from="1660565170564" duration="17023000" />
+      <workItem from="1660565170564" duration="19557000" />
+      <workItem from="1660673759507" duration="1544000" />
+      <workItem from="1660742411032" duration="14678000" />
     </task>
     <servers />
   </component>
