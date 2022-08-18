@@ -21,5 +21,5 @@ public class TesteReferencias {
     }
 }
 
-// A primeiraConta não é uma conta, ela é uma flexa, ela é uma refêrencia para uma conta, segundaConta também não é uma conta, ela é uma referência para uma conta
+// A primeiraConta não é uma conta, ela é uma flecha, ela é uma refêrencia para uma conta, segundaConta também não é uma conta, ela é uma referência para uma conta
 //as duas referênciam para o mesmo objeto.
