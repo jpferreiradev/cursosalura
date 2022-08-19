@@ -5,19 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39bd3aa9-c851-43aa-96b4-d408d77c0d50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../bytebank-composto/bytebank-composto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listadeatividadesOO/src/Endereco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listadeatividadesOO/src/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listadeatividadesOO/src/Programa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-composto/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-composto/src/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-composto/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-composto/src/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-composto/src/TestaBanco.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-composto/src/TestaBanco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-composto/src/TestaContaSemCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-composto/src/TestaContaSemCliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-composto/src/TestaSacaNegativo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank/src/TestaMetodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank/src/TestaMetodo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank/src/TesteReferencias.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank/src/TesteReferencias.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../listadeatividadesOO/out/production/listadeatividadesOO/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/../listadeatividadesOO/out/production/listadeatividadesOO/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../listadeatividadesOO/out/production/listadeatividadesOO/Programa.class" beforeDir="false" afterPath="$PROJECT_DIR$/../listadeatividadesOO/out/production/listadeatividadesOO/Programa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../listadeatividadesOO/src/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../listadeatividadesOO/src/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../listadeatividadesOO/src/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../listadeatividadesOO/src/Programa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +147,7 @@
       <workItem from="1660839054912" duration="658000" />
       <workItem from="1660839930771" duration="11812000" />
       <workItem from="1660911926163" duration="6261000" />
-      <workItem from="1660919825951" duration="6238000" />
+      <workItem from="1660919825951" duration="7021000" />
     </task>
     <servers />
   </component>
