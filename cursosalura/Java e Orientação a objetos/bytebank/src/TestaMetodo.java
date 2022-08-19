@@ -16,17 +16,19 @@ public class TestaMetodo {
         Conta contaDaThay = new Conta();
         contaDaThay.deposita(1000);
 
+        //Usando o método transfere
         boolean sucessoTransferencia = contaDaThay.transfere(3000,contaDoJP);
         if(sucessoTransferencia){
             System.out.println("Transferência feita com sucesso");
         } else {
             System.out.println("Faltou dinheiro");
         }
+
         System.out.println(contaDaThay.saldo);
         System.out.println(contaDoJP.saldo);
 
-
-
+        contaDoJP.titular = "João Paulo";
+        System.out.println(contaDoJP.titular);
     }
 }
 
@@ -37,3 +39,13 @@ contaDaThay.saldo = 100;
 contaDaThay.deposita(200);
 System.out.println(contaDaThay.saldo);
 */
+
+/*
+
+Conta contaDeDonaSonia = new Conta();
+contaDeDonaSonia.saldo = 500;
+contaDeDonaSonia.deposita(100);
+System.out.println(contaDeDonaSonia.saldo);
+contaDeDonaSonia.transfere(200,contaDoJP);
+System.out.println(contaDoJP.saldo);
+ */

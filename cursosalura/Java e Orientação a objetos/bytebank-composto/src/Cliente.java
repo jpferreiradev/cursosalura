@@ -1,8 +1,8 @@
-
 public class Cliente {
-	
-	String nome;
-	String cpf;
-	String profissao;
-	
+
+    String nome;
+    String cpf;
+    String profissao;
+
+
 }

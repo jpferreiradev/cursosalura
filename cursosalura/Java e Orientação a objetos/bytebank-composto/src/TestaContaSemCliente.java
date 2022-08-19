@@ -1,18 +1,16 @@
-
 public class TestaContaSemCliente {
-	public static void main(String args[]) {
-	
-		Conta contaDaThaynara = new Conta();
-		System.out.println(contaDaThaynara.pegaSaldo());
-	
-		contaDaThaynara.titular = new Cliente();
-		System.out.println(contaDaThaynara.titular);
-		
-		contaDaThaynara.titular.nome = "Thaynara";
-		System.out.println(contaDaThaynara.titular.nome);
-		
-		
-		
-		
-	}
+    public static void main(String args[]){
+        Conta contaDaThay = new Conta();
+        System.out.println(contaDaThay.saldo);
+
+        contaDaThay.titular = new Cliente();
+        System.out.println(contaDaThay.titular);
+
+        contaDaThay.titular.nome = "Thaynara";
+        System.out.println(contaDaThay.titular.nome);
+
+
+
+    }
+
 }
