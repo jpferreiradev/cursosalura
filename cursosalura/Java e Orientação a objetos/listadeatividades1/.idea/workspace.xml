@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39bd3aa9-c851-43aa-96b4-d408d77c0d50" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../bytebank-composto/src/TesteSacaValoresNegativos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank-composto/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-composto/src/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank-composto/src/TestaBanco.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-composto/src/TestaBanco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank-composto/src/TestaContaSemCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-composto/src/TestaContaSemCliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listadeatividadesOO/out/production/listadeatividadesOO/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/../listadeatividadesOO/out/production/listadeatividadesOO/Pessoa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listadeatividadesOO/out/production/listadeatividadesOO/Programa.class" beforeDir="false" afterPath="$PROJECT_DIR$/../listadeatividadesOO/out/production/listadeatividadesOO/Programa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../listadeatividadesOO/src/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../listadeatividadesOO/src/Pessoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../listadeatividadesOO/src/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../listadeatividadesOO/src/Programa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinxtaxe-basica/src/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sinxtaxe-basica/src/Programa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,10 +65,10 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestaContaSemCliente">
-    <configuration name="CriaConta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CriaConta" />
-      <module name="bytebank" />
+  <component name="RunManager" selected="Application.TesteSacaValoresNegativos">
+    <configuration name="Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programa" />
+      <module name="sinxtaxe-basica" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,9 +94,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteReferencias" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TesteReferencias" />
-      <module name="bytebank" />
+    <configuration name="TesteSacaValoresNegativos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesteSacaValoresNegativos" />
+      <module name="bytebank-composto" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -114,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteSacaValoresNegativos" />
         <item itemvalue="Application.TestaContaSemCliente" />
         <item itemvalue="Application.TestaBanco" />
+        <item itemvalue="Application.Programa" />
         <item itemvalue="Application.TestaMetodo" />
-        <item itemvalue="Application.CriaConta" />
-        <item itemvalue="Application.TesteReferencias" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +149,9 @@
       <workItem from="1660839054912" duration="658000" />
       <workItem from="1660839930771" duration="11812000" />
       <workItem from="1660911926163" duration="6261000" />
-      <workItem from="1660919825951" duration="7021000" />
+      <workItem from="1660919825951" duration="8055000" />
+      <workItem from="1661110330030" duration="914000" />
+      <workItem from="1661175455576" duration="10302000" />
     </task>
     <servers />
   </component>

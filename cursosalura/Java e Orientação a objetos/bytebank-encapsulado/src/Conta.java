@@ -1,20 +1,19 @@
-// Aqui são os atributos da classe
-// Criação da nossa primeira "classe", a gente difiniu o primeiro tipo "Conta"
+
 public class Conta {
 
-    //Exemplo de encapsulamento utilizando o private no atributo
-    private double saldo;
-    int agencia;
-    int numero;
-    Cliente titular;
 
-    //Primeiro método, não returna nada
+    private double saldo;
+    private int agencia;
+    private int numero;
+    private Cliente titular;
+
+
     public void deposita(double valor) {
         //this.saldo = this.saldo + valor;
         this.saldo += valor;
     }
 
-    //Segundo método, returna boolean
+
     public boolean saca(double valor) {
         if (this.saldo >= valor) {
             this.saldo -= valor;
@@ -23,7 +22,7 @@ public class Conta {
             return false;
         }
     }
-    //Terceiro método, returna boolean
+
     public boolean transfere(double valor, Conta destino) {
         if(this.saldo >= valor){
             this.saldo -= valor;
@@ -33,8 +32,16 @@ public class Conta {
         return false;
     }
 
-    public double getSaldo (){
+    public double getSaldo () {
         return this.saldo;
+    }
+
+    public int getNumero(){
+        return this.numero;
+    }
+
+    public void setNumero(int novoNumero){
+        this.numero = novoNumero;
     }
 
 }

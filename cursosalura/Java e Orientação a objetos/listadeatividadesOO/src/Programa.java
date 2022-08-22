@@ -9,3 +9,10 @@ public class Programa {
 
     }
 }
+
+/*
+Pessoa p = new Pessoa();
+p.nome = "Paulo";
+p.endereco = new Endereco();
+p.endereco.logradouro = "Avenidade XYZ";
+*/
