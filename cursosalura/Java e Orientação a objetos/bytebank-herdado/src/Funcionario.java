@@ -4,8 +4,10 @@ public class Funcionario {
     private String cpf;
     private double salario;
 
+
+
     public double getBonicacao(){
-        return this.salario * 0.1;
+        return this.salario * 0.05;
     }
 
 
