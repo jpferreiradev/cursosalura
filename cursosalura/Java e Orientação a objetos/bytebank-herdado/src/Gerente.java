@@ -1,5 +1,5 @@
-// Gerente é um FuncionarioAutenticavel, Gerente herda da class FuncionarioAutenticavel
-public class Gerente extends FuncionarioAutenticavel {
+// Gerente é um Autenticavel, Gerente herda da class Autenticavel
+public class Gerente extends Funcionario {
 
     //@Override
     public double getBonicacao(){
