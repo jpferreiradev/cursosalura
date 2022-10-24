@@ -2,34 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed7c1c6e-8048-42f0-adf9-d2b4e386d8a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/book-javaparainiciantes/book-javaparainiciantes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/exercicios.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listadeatividades/listadeatividades.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-composto/bytebank-composto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-composto/bytebank-composto.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-encapsulado/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-encapsulado/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-encapsulado/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-encapsulado/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-encapsulado/bytebank-encapsulado.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Atividades/Atividades.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-encapsulado/out/production/bytebank-encapsulado/Cliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-encapsulado/out/production/bytebank-encapsulado/Conta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-encapsulado/out/production/bytebank-encapsulado/TestaGetESet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-encapsulado/out/production/bytebank-encapsulado/TestaValores.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-encapsulado/src/Cliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-encapsulado/src/Conta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-encapsulado/src/TestaGetESet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-encapsulado/src/TestaValores.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank/bytebank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank/bytebank.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consolecontrolandgames" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/listadeatividades1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/listadeatividades1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sintaxe-variaveis-e-fluxo/sintaxe-variaveis-e-fluxo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sintaxe-variaveis-e-fluxo/sintaxe-variaveis-e-fluxo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sinxtaxe-basica/sinxtaxe-basica.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sinxtaxe-basica/sinxtaxe-basica.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +62,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Java e Orientação a objetos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Java e Orientação a objetos" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.TesteReferencias" />
@@ -110,6 +97,13 @@
       <workItem from="1665761453530" duration="1114000" />
       <workItem from="1665762664704" duration="21000" />
       <workItem from="1665762690251" duration="11000" />
+      <workItem from="1666460568670" duration="48000" />
+      <workItem from="1666460802173" duration="497000" />
+      <workItem from="1666461425631" duration="851000" />
+      <workItem from="1666462586193" duration="23000" />
+      <workItem from="1666462622168" duration="32000" />
+      <workItem from="1666462672872" duration="304000" />
+      <workItem from="1666463444281" duration="13000" />
     </task>
     <servers />
   </component>
