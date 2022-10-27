@@ -1,7 +1,8 @@
 public class Fluxo {
 
     public static void main(String[] args) {
-        System.out.println("Inicialização do main"); // Passo 1
+        
+    	System.out.println("Inicialização do main"); // Passo 1
         try {
             metodo1();
         } catch (ArithmeticException | NullPointerException ex){
@@ -9,6 +10,7 @@ public class Fluxo {
             System.out.println("Exception " + msg);
             ex.printStackTrace();
         }
+        
         System.out.println("Fim do main"); // Passo 3
     }
 
@@ -20,8 +22,8 @@ public class Fluxo {
 
     private static void metodo2() {
         System.out.println("Inicialização do metodo2");
-        ArithmeticException ex = new ArithmeticException("Deu errado");
-        throw ex;
+        	
+       throw new ArithmeticException("Deu errado");
 
 
         //System.out.println("Fim do metodo2");
@@ -38,4 +40,9 @@ public class Fluxo {
             System.out.println("NullPointerException - Isso aqui é uma exceção" + msg);
             //ex.printStackTrace();
  */
+/*
 
+        Forma antiga para utilizar o throw
+        ArithmeticException ex =new ArithmeticException("Deu errado");
+        throw ex;
+*/
