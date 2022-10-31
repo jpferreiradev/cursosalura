@@ -24,8 +24,17 @@ public class Fluxo {
     private static void metodo2() {
         System.out.println("Inicialização do metodo2");
         
-        throw new ArithmeticException("Deu errado");
+        throw new ArithmeticException("Você pode comentar aqui");
         //System.out.println("Fim do método 2");
     }
 }
 
+/*
+-Jeito antigo de lançar uma excesão com o throw:
+ArithmeticException exception = new ArithmeticException();
+throw exception;
+
+- Jeito usado pelo mercado para usar o método throw
+ throw new ArithmeticException("Deu errado");
+
+ */
