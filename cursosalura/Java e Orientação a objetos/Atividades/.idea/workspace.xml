@@ -3,8 +3,24 @@
   <component name="ChangeListManager">
     <list default="true" id="b66779cd-e27e-477a-893f-2affe9be0ff4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta/src/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/ContaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java e Orientação a objetos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java e Orientação a objetos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book-javaparainiciantes/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book-javaparainiciantes/bin/Example.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book-javaparainiciantes/src/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/../book-javaparainiciantes/src/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios/bin/exercicios/AtividadeCinco.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios/bin/exercicios/AtividadeCinco.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios/bin/exercicios/AtividadeDez.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios/bin/exercicios/AtividadeDez.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios/bin/exercicios/AtividadeDois.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios/bin/exercicios/AtividadeDois.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios/bin/exercicios/AtividadeNove.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios/bin/exercicios/AtividadeNove.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios/bin/exercicios/AtividadeOito.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios/bin/exercicios/AtividadeOito.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios/bin/exercicios/AtividadeQuatro.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios/bin/exercicios/AtividadeQuatro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios/bin/exercicios/AtividadeSeis.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios/bin/exercicios/AtividadeSeis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios/bin/exercicios/AtividadeSete.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios/bin/exercicios/AtividadeSete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios/bin/exercicios/AtividadeTres.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios/bin/exercicios/AtividadeTres.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios/bin/exercicios/AtividadeUm.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios/bin/exercicios/AtividadeUm.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../listadeatividades1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../listadeatividades1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../listadeatividades1/bin/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +57,8 @@
       <updated>1666463067607</updated>
       <workItem from="1666463068821" duration="224000" />
       <workItem from="1666618777062" duration="6000" />
+      <workItem from="1667323238990" duration="638000" />
+      <workItem from="1667324279216" duration="236000" />
     </task>
     <servers />
   </component>

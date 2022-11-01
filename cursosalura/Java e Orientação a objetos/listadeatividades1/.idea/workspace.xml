@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="39bd3aa9-c851-43aa-96b4-d408d77c0d50" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta/src/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/ContaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Atividades/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Atividades/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -161,6 +161,9 @@
       <workItem from="1665759653973" duration="5000" />
       <workItem from="1666461300242" duration="10000" />
       <workItem from="1666618789170" duration="41000" />
+      <workItem from="1667323959121" duration="5000" />
+      <workItem from="1667324253082" duration="6000" />
+      <workItem from="1667324265449" duration="3000" />
     </task>
     <servers />
   </component>

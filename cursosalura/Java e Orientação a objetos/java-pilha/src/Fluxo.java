@@ -30,7 +30,7 @@ public class Fluxo {
 }
 
 /*
--Jeito antigo de lançar uma excesão com o throw:
+-Geito antigo de lançar uma excesão com o throw:
 ArithmeticException exception = new ArithmeticException();
 throw exception;
 

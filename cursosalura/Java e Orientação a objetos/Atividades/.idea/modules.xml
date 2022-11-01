@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Atividades.iml" filepath="$PROJECT_DIR$/Atividades.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Java e Orientação a objetos.iml" filepath="$PROJECT_DIR$/../Java e Orientação a objetos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../book-javaparainiciantes/book-javaparainiciantes.iml" filepath="$PROJECT_DIR$/../book-javaparainiciantes/book-javaparainiciantes.iml" />
       <module fileurl="file://$PROJECT_DIR$/../bytebank/bytebank.iml" filepath="$PROJECT_DIR$/../bytebank/bytebank.iml" />
       <module fileurl="file://$PROJECT_DIR$/../bytebank-composto/bytebank-composto.iml" filepath="$PROJECT_DIR$/../bytebank-composto/bytebank-composto.iml" />
       <module fileurl="file://$PROJECT_DIR$/../exercicios/exercicios.iml" filepath="$PROJECT_DIR$/../exercicios/exercicios.iml" />
