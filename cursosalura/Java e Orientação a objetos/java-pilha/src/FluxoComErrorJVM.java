@@ -5,7 +5,7 @@ public class FluxoComErrorJVM {
     	System.out.println("Inicialização do main");
         try {
             metodo1();
-        } catch (ArithmeticException | NullPointerException | MinhaExcecao ex){
+        } catch (ArithmeticException | NullPointerException ex){
             String msg = ex.getMessage();
             System.out.println("Exception " + msg);
             ex.printStackTrace();
@@ -15,7 +15,7 @@ public class FluxoComErrorJVM {
         System.out.println("Fim do main");
     }
 
-    private static void metodo1() {
+    private static void metodo1()  {
         System.out.println("Inicialização do metodo1");
         metodo2();
         System.out.println("Fim do metodo1");

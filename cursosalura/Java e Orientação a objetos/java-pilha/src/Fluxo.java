@@ -5,7 +5,7 @@ public class Fluxo {
     	System.out.println("Inicialização do main");
         try {
             metodo1();
-        } catch (ArithmeticException | NullPointerException | MinhaExcecao ex){
+        } catch (Exception ex){
             String msg = ex.getMessage();
             System.out.println("Exception " + msg);
             ex.printStackTrace();
@@ -36,5 +36,12 @@ throw exception;
 
 - Jeito usado pelo mercado para usar o método throw
  throw new ArithmeticException("Deu errado");
+
+- try{
+            metodo1
+       } ArithmeticException | NullPointerException | MinhaExcecao ex {
+
+       }
+
 
  */
