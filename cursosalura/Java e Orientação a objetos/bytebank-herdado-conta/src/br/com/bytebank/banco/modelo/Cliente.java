@@ -8,7 +8,7 @@ package br.com.bytebank.banco.modelo;
  * @version 0.1
  *
  */
-public class Cliente {
+public class Cliente extends Object {
 
     private String nome;
     private String cpf;

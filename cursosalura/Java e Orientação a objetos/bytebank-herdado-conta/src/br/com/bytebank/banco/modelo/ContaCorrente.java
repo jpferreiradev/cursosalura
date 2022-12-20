@@ -22,7 +22,11 @@ package br.com.bytebank.banco.modelo;
         return super.saldo * 0.01;
 
     }
-
+    
+    @Override
+    public String toString() {
+    	return "ContaCorrente, " + super.toString();    
+    }
 }
 
 //@Override é uma  Anotação do código Java

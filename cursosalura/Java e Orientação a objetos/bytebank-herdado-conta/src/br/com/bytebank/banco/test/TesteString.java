@@ -23,6 +23,8 @@ public class TesteString {
 		System.out.println(vazio);
 		System.out.println(outroVazio); // Ele tirou os espaços da String
 		
+		
+		
 		//  Quando algum usuario esqueceu de preencher alguma formulario
 		//System.out.println(outroVazio.isEmpty());
 		
