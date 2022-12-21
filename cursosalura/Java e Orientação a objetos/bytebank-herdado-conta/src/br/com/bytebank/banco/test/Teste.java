@@ -1,42 +1,21 @@
 package br.com.bytebank.banco.test;
 
-import br.com.bytebank.banco.modelo.ContaCorrente;
-import br.com.bytebank.banco.modelo.ContaPoupanca;
-import br.com.bytebank.banco.modelo.Cliente;
-import br.com.bytebank.banco.modelo.Conta;
-
 public class Teste {
-	public static void main(String args[]) {
-		
-//		System.out.println("x");
-//		System.out.println(3);
-//		System.out.println(false);
-	
-		
-		// Polimorfismo
-		Object cc = new ContaCorrente(22,33);
-		Object cp = new ContaPoupanca(33,22);
-		Object cliente = new Cliente();
-		
-		// Reutilização de código
-		System.out.println(cc);
-		System.out.println(cp);	
-		
-		//println(cliente);
-		
-	}
 
-	static void pritnln(){ 
-		
-	}
-	
-	static void println(int a) {	
-	}
+    // Array[]
+    public static void main(String[] args) {
 
-	static void pritnln(boolean valor) {		
-	}
-	
-	static void println( Object referencia) {
-		
-	}
+
+        int idades [] = new int[5];
+
+        int idade = 31;
+        int idade2 = 30;
+        int idade3 = 25;
+        int idade4 = 27;
+        int idade5 = 29;
+
+        System.out.println("O tamanho do meu Array é de " + idades.length);
+
+
+    }
 }
