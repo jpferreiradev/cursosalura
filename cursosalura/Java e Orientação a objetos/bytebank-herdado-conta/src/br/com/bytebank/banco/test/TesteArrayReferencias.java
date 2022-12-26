@@ -11,6 +11,8 @@ public class TesteArrayReferencias {
 
         Object[] referencias =  new Object[5];
 
+        System.out.println(referencias.length);
+
         ContaCorrente cc1 = new ContaCorrente(890,678);
         referencias[0] = cc1;
 
