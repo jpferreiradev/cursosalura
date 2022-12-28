@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed7c1c6e-8048-42f0-adf9-d2b4e386d8a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/GuardadorDeContas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/TesteArrayString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/GuardadorDeReferencias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/TesteGuardadorReferencias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/util/Teste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/TesteArrayReferencias.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/TesteArrayReferencias.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/bytebank-herdado-conta/br/com/bytebank/banco/test/TesteArrayReferencias.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/bytebank-herdado-conta/br/com/bytebank/banco/test/TesteArrayReferencias.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/Teste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/bytebank-herdado-conta/br/com/bytebank/banco/test/Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/bytebank-herdado-conta/br/com/bytebank/banco/test/Teste.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,22 +61,9 @@
       <recent name="br.com.bytebank.banco.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Teste">
+  <component name="RunManager" selected="Application.br.com.bytebank.banco.test.util.Teste">
     <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.Teste" />
-      <module name="bytebank-herdado-conta" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.bytebank.banco.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteArrayDePrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.TesteArrayDePrimitivos" />
       <module name="bytebank-herdado-conta" />
       <extension name="coverage">
         <pattern>
@@ -114,12 +101,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteSaca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.TesteSaca" />
+    <configuration name="TesteGuardadorReferencias" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.TesteGuardadorReferencias" />
       <module name="bytebank-herdado-conta" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.com.bytebank.banco.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="br.com.bytebank.banco.test.util.Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.util.Teste" />
+      <module name="bytebank-herdado-conta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bytebank.banco.test.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.br.com.bytebank.banco.test.util.Teste" />
+        <item itemvalue="Application.TesteGuardadorReferencias" />
         <item itemvalue="Application.Teste" />
         <item itemvalue="Application.TesteArrayReferencias" />
         <item itemvalue="Application.TesteArrayString" />
-        <item itemvalue="Application.TesteArrayDePrimitivos" />
-        <item itemvalue="Application.TesteSaca" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +172,8 @@
       <workItem from="1671716035978" duration="5957000" />
       <workItem from="1671799955827" duration="1990000" />
       <workItem from="1671821731237" duration="1663000" />
-      <workItem from="1672063903422" duration="6230000" />
+      <workItem from="1672063903422" duration="11416000" />
+      <workItem from="1672150624981" duration="12291000" />
     </task>
     <servers />
   </component>
