@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed7c1c6e-8048-42f0-adf9-d2b4e386d8a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/modelo/GuardadorDeReferencias.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/TesteGuardadorReferencias.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/util/Teste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/test/Teste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/bytebank-herdado-conta/br/com/bytebank/banco/test/Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/bytebank-herdado-conta/br/com/bytebank/banco/test/Teste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +57,7 @@
       <recent name="br.com.bytebank.banco.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.br.com.bytebank.banco.test.util.Teste">
+  <component name="RunManager" selected="Application.Teste">
     <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.bytebank.banco.test.Teste" />
       <module name="bytebank-herdado-conta" />
@@ -136,10 +132,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.br.com.bytebank.banco.test.util.Teste" />
-        <item itemvalue="Application.TesteGuardadorReferencias" />
         <item itemvalue="Application.Teste" />
         <item itemvalue="Application.TesteArrayReferencias" />
+        <item itemvalue="Application.br.com.bytebank.banco.test.util.Teste" />
+        <item itemvalue="Application.TesteGuardadorReferencias" />
         <item itemvalue="Application.TesteArrayString" />
       </list>
     </recent_temporary>
@@ -174,6 +170,11 @@
       <workItem from="1671821731237" duration="1663000" />
       <workItem from="1672063903422" duration="11416000" />
       <workItem from="1672150624981" duration="12291000" />
+      <workItem from="1672263922868" duration="273000" />
+      <workItem from="1672338883720" duration="234000" />
+      <workItem from="1672456978238" duration="1138000" />
+      <workItem from="1672621267863" duration="286000" />
+      <workItem from="1672667461623" duration="100000" />
     </task>
     <servers />
   </component>

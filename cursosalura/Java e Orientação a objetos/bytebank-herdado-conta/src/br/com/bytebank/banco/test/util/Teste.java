@@ -39,7 +39,7 @@ public class Teste {
 
         System.out.println(" ----------");
 
-        // Hoje em dia
+        // Forma nova
         for(Object oRef : lista){
             System.out.println(oRef);
         }
