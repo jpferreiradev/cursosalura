@@ -1,0 +1,55 @@
+<meta charset="UTF-8">
+
+<script>
+   
+   function pulaLinha(){
+        document.write("<br>");
+   }
+   
+   
+   function mostra(frase){
+        
+        document.write(frase);
+        pulaLinha();
+   }
+
+   function calculaIMC(altura,peso){
+        
+        return peso / (altura * altura);
+        
+    }
+
+    var nome = prompt( "Informe o seu nome:");
+    var alturaInformada = prompt( nome + ", informe a sua altura:");
+    //document.write("A altura informada foi:" + alturaInformada)
+    var pesoInformado = prompt(nome + ", informe o seu peso:");
+    //document.write("O peso informado foi:" + pesoInformado)
+    
+    var imc = calculaIMC(alturaInformada,pesoInformado);
+
+    document.write(nome + ", o seu IMC calculo é: " + imc)
+
+   
+
+
+
+
+    
+/*
+    var imcJP = calculaIMC(1.71,68);
+var imcAmigo = calculaIMC(1.72,72);
+var totalIMC = imcJP + imcAmigo;
+ Pode ser feito dessa maneira também: totalIMC = calculaIMC(1.71,68) +  calculaIMC(1.72,72) - Aqui são variáveis auxiliares
+
+document.write(" A soma dos dois IMCs é:" + totalIMC)
+*/
+   
+
+</script>
+
+
+
+
+
+
+
